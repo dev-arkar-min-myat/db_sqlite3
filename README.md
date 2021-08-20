@@ -6,11 +6,11 @@ SQLite is a software library that provides a relational database management syst
 The lite in SQLite means lightweight in terms of setup, database administration, and required resources.
 
 # SQLite Features
-Features
-------------------------|------------------------
-Server Less             |
-Self-Contained          |
-Zero-Configuration      |
-Transactional           |
-------------------------|------------------------
+|Features               |                        |
+|-----------------------|------------------------|
+|Server Less            |                        |
+|Self-Contained         |                        |
+|Zero-Configuration     |                        |
+|Transactional          |                        |
+|-----------------------|------------------------|
 
