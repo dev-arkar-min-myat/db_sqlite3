@@ -8,9 +8,8 @@ The lite in SQLite means lightweight in terms of setup, database administration,
 # SQLite Features
 |Features               |                        |
 |-----------------------|------------------------|
-|Server Less            |                        |
+|Server Less            |SQLite does NOT require a server to run.SQLite database is integrated with the application that accesses the database. The applications interact with the SQLite database read and write directly from the database files stored on disk.|
 |Self-Contained         |                        |
 |Zero-Configuration     |                        |
 |Transactional          |                        |
-|-----------------------|------------------------|
 
